@@ -2,7 +2,7 @@
 
 <h1>Project Overview</h1>
   
-This project is a simple and interactive Tic-Tac-Toe game. It allows two players to take turns placing Xs and Os on a 3x3 grid with the goal of aligning three of their marks in a row horizontally, vertically, or diagonally.
+This project is a simple and interactive <h2>Tic-Tac-Toe game</h2>. It allows two players to take turns placing Xs and Os on a 3x3 grid with the goal of aligning three of their marks in a row horizontally, vertically, or diagonally.
 
 <h2>Technologies Used</h2>
   
