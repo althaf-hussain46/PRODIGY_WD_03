@@ -33,6 +33,12 @@ Initializes the game state and player turn.
   
 The HTML file sets up the structure of the Tic-Tac-Toe game using a grid layout for the game board, status updates, and a restart button.
 
+<h2>JavaScript Interactivity (script.js)</h2>
   
+JavaScript is used to handle the game logic, including player moves, checking for wins, and restarting the game.
+
+<h2>CSS Styling (styles.css)</h2>
+
+CSS is used to style the game board, cells, status, and restart button. The styles ensure that the game is visually appealing and responsive.
 </pre>
 
