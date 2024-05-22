@@ -1,4 +1,4 @@
-<pre>
+
 Tic-Tac-Toe Game
 Project Overview
 This project is a simple and interactive Tic-Tac-Toe game. It allows two players to take turns placing Xs and Os on a 3x3 grid with the goal of aligning three of their marks in a row horizontally, vertically, or diagonally.
@@ -22,4 +22,4 @@ Resets the game board for a new game.
 Initializes the game state and player turn.
 
   
-</pre>
+
